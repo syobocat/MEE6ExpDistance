@@ -62,7 +62,7 @@
       "DiscordExpDistance.pdb": "sha256-E7cHhkDT\/GOcSVciImash5aqkqWk\/VKG2XacIwqyfiE="
     },
     "runtime": {
-      "dotnet.3.2.0-preview5.20210.1.js": "sha256-\/uExEU5ECP+u0FDAudLlva53SiNUut4PPcG9xnAVikc=",
+      "dotnet.3.2.0-preview5.20210.1.js": "sha384-uLjgoNBSGE6U7pLpJ+8PzRW81TCI4X91Q8DkjBH9M+3qiDtXID6Ji478Mlz7v\/OC",
       "dotnet.wasm": "sha256-1eg9GLgSFeRJ09AfsNXG2RggC8hZdgQOM7xtCdds3iQ="
     },
     "satelliteResources": null
